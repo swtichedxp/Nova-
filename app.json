@@ -1,0 +1,58 @@
+{
+  "name": "NOVA XD",
+  "description": "Javascript WhatsApp bot made by zed",
+  "logo": "https://files.catbox.moe/xv34mh.jpeg https://files.catbox.moe/xv34mh.jpeg",
+  "keywords": ["ZED SPACE","NOVA-XD"],
+  "success_url": "/",
+
+    "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Must Start with 'nova~'",
+      "required": true,
+      "value": ""
+    },
+      "BOT_NAME": {
+        "description": "write here your bot name.",
+        "required": true,
+        "value": "ɴᴏᴠᴀ xᴅ"      
+    },  
+    "MODE": {
+      "description": "Set private/public/inbox/groups",
+      "required": false,
+      "value": "public"
+     },
+   
+    "PREFIX": {
+      "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
+      "required": true,
+      "value": "."
+    },
+    
+    "OWNER_NAME": {
+      "description": "Put Owner Name Here",
+      "required": true,
+      "value": "zed"
+    },
+    "OWNER_NUMBER": {
+      "description": "Put only one Owner Number Here",
+      "required": true,
+      "value": "212684255286"
+    },
+    
+    "PRESENCE": {
+      "description": "Put online/typing/recording/unavailable",
+      "required": true,
+      "value": "online"
+    }
+
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
+  
