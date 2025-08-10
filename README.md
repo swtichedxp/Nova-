@@ -15,13 +15,11 @@ This method is for deploying to a hosting provider with a control panel (e.g., P
     Get your unique session ID from the official Nova XD pairing site.
     [![<span style="color:#FFFFFF;">Get Session ID</span>](https://img.shields.io/badge/<span style="color:#FFFFFF;">Get</span>%20<span style="color:#FFFFFF;">Session</span>%20<span style="color:#FFFFFF;">ID</span>-blueviolet?style=for-the-badge&logo=render&labelColor=232323)](https://novapair.onrender.com/)
 
-3.  **<span style="color:#FF00FF;"><i class="fas fa-download"></i> <i class="fas fa-file-zip"></i> <i class="fas fa-folder-open"></i></span> Setup the Bot**
+3.  **<span style="color:#FF00FF;"><i class="fas fa-tools"></i></span> Setup and Start the Bot**
     * <span style="color:#00FFFF;">Download</span> the ZIP file of your forked repository.
     * <span style="color:#00FF00;">Extract</span> the contents into your panel's file manager.
     * Open `<span style="color:#FFA500;">settings.js</span>` and input your generated session ID.
-
-4.  **<span style="color:#FFFFFF;"><i class="fas fa-play"></i></span> Start the Bot**
-    * Start the server from your panel's dashboard.
+    * Start the bot from your panel's dashboard.
 
 ---
 
@@ -38,7 +36,7 @@ This is the fastest and recommended method for deployment.
 
 3.  **<span style="color:#00FFFF;"><i class="fas fa-rocket"></i></span> Deploy to Render**
     Click the button below to deploy your forked repository directly to Render.
-    [![<span style="color:#FFFFFF;">Deploy to Render</span>](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/swtichedxp/Nova-)
+    [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/swtichedxp/Nova-)
 
 ---
 
