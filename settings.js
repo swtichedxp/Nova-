@@ -142,4 +142,4 @@ module.exports = {
 https://github.com/swtichedxp/Nova-/tree/main
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝚉𝚎𝚍 space
-};
+`};
