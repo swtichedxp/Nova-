@@ -8,12 +8,12 @@ A powerful WhatsApp bot focused on making tasks effortless. Nova XD provides a s
 
 This method is for deploying to a hosting provider with a control panel (e.g., Pterodactyl).
 
-1.  **<span style="color:#00FF00;"><i class="fas fa-code-branch"></i></span> Fork the Repository**
-    [![<span style="color:#FFFFFF;">Fork Repo</span>](https://img.shields.io/badge/<span style="color:#FFFFFF;">Fork</span>%20<span style="color:#FFFFFF;">Repo</span>-black?style=for-the-badge&logo=github&labelColor=1F1F1F)](https://github.com/swtichedxp/Nova-/fork)
+1.  **<span style="color:#FFA500;"><i class="fas fa-code-branch"></i></span> Fork the Repository**
+    [![FORK REPO](https://img.shields.io/badge/FORK%20REPO-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swtichedxp/Nova-/fork)
 
 2.  **<span style="color:#FFA500;"><i class="fas fa-key"></i></span> Generate a Session ID**
     Get your unique session ID from the official Nova XD pairing site.
-    [![<span style="color:#FFFFFF;">Get Session ID</span>](https://img.shields.io/badge/<span style="color:#FFFFFF;">Get</span>%20<span style="color:#FFFFFF;">Session</span>%20<span style="color:#FFFFFF;">ID</span>-blueviolet?style=for-the-badge&logo=render&labelColor=232323)](https://novapair.onrender.com/)
+    [![GET SESSION ID](https://img.shields.io/badge/GET%20SESSION%20ID-5B5BFF?style=for-the-badge&logo=keys&logoColor=white)](https://novapair.onrender.com/)
 
 3.  **<span style="color:#FF00FF;"><i class="fas fa-tools"></i></span> Setup and Start the Bot**
     * <span style="color:#00FFFF;">Download</span> the ZIP file of your forked repository.
@@ -27,16 +27,16 @@ This method is for deploying to a hosting provider with a control panel (e.g., P
 
 This is the fastest and recommended method for deployment.
 
-1.  **<span style="color:#00FF00;"><i class="fas fa-code-branch"></i></span> Fork the Repository**
-    [![<span style="color:#FFFFFF;">Fork Repo</span>](https://img.shields.io/badge/<span style="color:#FFFFFF;">Fork</span>%20<span style="color:#FFFFFF;">Repo</span>-black?style=for-the-badge&logo=github&labelColor=1F1F1F)](https://github.com/swtichedxp/Nova-/fork)
+1.  **<span style="color:#FFA500;"><i class="fas fa-code-branch"></i></span> Fork the Repository**
+    [![FORK REPO](https://img.shields.io/badge/FORK%20REPO-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swtichedxp/Nova-/fork)
 
 2.  **<span style="color:#FFA500;"><i class="fas fa-key"></i></span> Generate a Session ID**
     Get your unique session ID from the official Nova XD pairing site.
-    [![<span style="color:#FFFFFF;">Get Session ID</span>](https://img.shields.io/badge/<span style="color:#FFFFFF;">Get</span>%20<span style="color:#FFFFFF;">Session</span>%20<span style="color:#FFFFFF;">ID</span>-blueviolet?style=for-the-badge&logo=render&labelColor=232323)](https://novapair.onrender.com/)
+    [![GET SESSION ID](https://img.shields.io/badge/GET%20SESSION%20ID-5B5BFF?style=for-the-badge&logo=keys&logoColor=white)](https://novapair.onrender.com/)
 
 3.  **<span style="color:#00FFFF;"><i class="fas fa-rocket"></i></span> Deploy to Render**
     Click the button below to deploy your forked repository directly to Render.
-    [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/swtichedxp/Nova-)
+    [![DEPLOY TO RENDER](https://img.shields.io/badge/DEPLOY%20TO%20RENDER-00E676?style=for-the-badge&logo=render&logoColor=white)](https://render.com/deploy?repo=https://github.com/swtichedxp/Nova-)
 
 ---
 
@@ -44,4 +44,4 @@ This is the fastest and recommended method for deployment.
 
 Stay up to date with the latest features, news, and announcements for Nova XD.
 
-[![<span style="color:#FFFFFF;">WhatsApp Channel</span>](https://img.shields.io/badge/<span style="color:#FFFFFF;">WhatsApp</span>%20<span style="color:#FFFFFF;">Channel</span>-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbB6Xu9CXC3FaGdkpZ3s)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbB6Xu9CXC3FaGdkpZ3s)
